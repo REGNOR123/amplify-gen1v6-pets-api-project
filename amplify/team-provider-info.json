@@ -27,6 +27,12 @@
       },
       "api": {
         "petsapi": {}
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d12e94iv4ia4zf",
+          "type": "cicd"
+        }
       }
     }
   }
