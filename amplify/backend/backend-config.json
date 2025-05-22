@@ -49,6 +49,7 @@
           "attributeEnvMap": {
             "Arn": "TABLE_ARN",
             "Name": "TABLE_NAME"
+            
           },
           "attributes": [
             "Name",
